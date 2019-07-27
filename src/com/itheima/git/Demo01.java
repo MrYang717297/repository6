@@ -16,5 +16,8 @@ public class Demo01 {
 
 
         System.out.println("HelloWorld");
+
+
+        System.out.println("键盘敲烂,月薪过万!!");
     }
 }
